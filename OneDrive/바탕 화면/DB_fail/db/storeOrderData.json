@@ -1,0 +1,97 @@
+[
+  {
+    "OrderID": 0,
+    "deliveryFee": 990,
+    "orderMenu": [
+      {
+        "foodname": "치즈와퍼",
+        "price": 8600,
+        "quantity": 1
+      },
+      {
+        "foodname": "코카콜라L",
+        "price": 3100,
+        "quantity": 1
+      }
+    ],
+    "isAccept": false,
+    "isFinish": false,
+    "isDelivered": false
+  },
+  {
+    "OrderID": 10,
+    "deliveryFee": 1350,
+    "orderMenu": [
+      {
+        "foodname": "몬스터X",
+        "price": 11000,
+        "quantity": 2
+      },
+      {
+        "foodname": "레드애플맛 제로",
+        "price": 3100,
+        "quantity": 1
+      }
+    ],
+    "isAccept": false,
+    "isFinish": false,
+    "isDelivered": false
+  },
+  {
+    "OrderID": 20,
+    "deliveryFee": 1350,
+    "orderMenu": [
+      {
+        "foodname": "와퍼",
+        "price": 800,
+        "quantity": 10
+      },
+      {
+        "foodname": "코카콜라L",
+        "price": 3100,
+        "quantity": 10
+      }
+    ],
+    "isAccept": false,
+    "isFinish": false,
+    "isDelivered": false
+  },
+  {
+    "OrderID": 30,
+    "deliveryFee": 990,
+    "orderMenu": [
+      {
+        "foodname": "치즈와퍼",
+        "price": 8600,
+        "quantity": 2
+      },
+      {
+        "foodname": "스프라이트R",
+        "price": 2900,
+        "quantity": 2
+      }
+    ],
+    "isAccept": false,
+    "isFinish": false,
+    "isDelivered": false
+  },
+  {
+    "OrderID": 40,
+    "deliveryFee": 990,
+    "orderMenu": [
+      {
+        "foodname": "비프불고기버거",
+        "price": 4900,
+        "quantity": 2
+      },
+      {
+        "foodname": "치즈스틱",
+        "price": 3400,
+        "quantity": 1
+      }
+    ],
+    "isAccept": false,
+    "isFinish": false,
+    "isDelivered": false
+  }
+]
